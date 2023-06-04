@@ -46,5 +46,7 @@ I Learned how to find the network saved passwords in a linux
 
 ## Screenshots
 
-![App Screenshots](https://i.ibb.co/c1hBJkj/Screenshot-2023-05-28-003553.png)
+![App Screenshots](https://raw.githubusercontent.com/EnDaTeam/EnDa-WiFi-Exposer/main/ScreenShot.png)
+
+![App Screenshots](https://raw.githubusercontent.com/EnDaTeam/EnDa-WiFi-Exposer/main/ScreenShot2.png)
 
